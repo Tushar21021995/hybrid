@@ -8,7 +8,7 @@ public class Remo
 	@Test
 	public void remo()
 	{
-		Reporter.log("remo class method",true);
+		Reporter.log("remo  method",true);
 	}
 
 
